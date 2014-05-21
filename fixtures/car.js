@@ -24,6 +24,12 @@
 
         this.sorted.push(key);
     }
+ * @example
+    <html>
+        <div class="hello-word">
+            <p>To be <strong>or not</strong> to be.</p>
+        </div>
+    </html>
  */
 exports.Car = function (hybrid) {
 
